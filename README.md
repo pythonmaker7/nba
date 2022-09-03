@@ -6,6 +6,6 @@ We then tell the user which 2 out of these 3 players played more similarly durin
 
 For example
 
-{Stephen Curry, Kyrie Irving, Steven Adams}     ->    {Stephen Curry, Kyrie Irving}
+Stephen Curry, Kyrie Irving, Steven Adams -> Stephen Curry, Kyrie Irving
 
-{Joel Embiid, Rudy Gay, Damian Lillard}         ->    {Joel Embiid, Damian Lillard}
+Joel Embiid, Rudy Gay, Damian Lillard -> Joel Embiid, Damian Lillard
