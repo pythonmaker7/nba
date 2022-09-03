@@ -3,7 +3,7 @@
 3.    normalize stats
 4.    calculate distance
 
-# 1.1   read per_game stats
+1.1   read per_game stats
 
 2.1   drop rows with empty cells
 
