@@ -1,4 +1,4 @@
-# Compare 2 players' similitude
+# Compare distance of 3 players
 
 We ask a user to write down 3 nba players.
 
