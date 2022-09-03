@@ -8,6 +8,7 @@
 1.1   read per_game stats
 
 2.1   drop rows with empty cells
+
 2.2   drop scrubs with few games/minutes
 2.3   only keep 2017-18 season
 
